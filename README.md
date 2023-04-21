@@ -1,6 +1,6 @@
 # Flutter_app
 
-A new Flutter project.
+A new Flutter project. ALthough it's just a simple application but it helped me a lot to learned about Flutter and i'm sure it will be better in a future
 
 ## Getting Started
 
