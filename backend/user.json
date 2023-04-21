@@ -1,0 +1,50 @@
+{
+  "user1": {
+    "username": "abc",
+    "password": "xyz"
+  },
+  "user2": {
+    "username": "abc1",
+    "password": "xyz1"
+  },
+  "user3": {
+    "username": "anhtai",
+    "password": "123"
+  },
+  "user4": {
+    "username": "anhviet",
+    "password": "123"
+  },
+  "user5": {
+    "username": "anhtai1",
+    "password": "1223a"
+  },
+  "user6": {
+    "username": "i1211",
+    "password": "1223a"
+  },
+  "user7": {
+    "username": "tai1211",
+    "password": "1223a"
+  },
+  "user8": {
+    "username": "mannhi",
+    "password": "123a"
+  },
+  "user9": {
+    "username": "anhviet2",
+    "password": "123a"
+  },
+  "user10": {
+    "username": "",
+    "password": ""
+  },
+  "user11": {
+    "username": "luongmannhi",
+    "password": "123"
+  },
+  "user12": {
+    "username": "nguyenhoan",
+    "password": "hoan123"
+  }
+}

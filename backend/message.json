@@ -1,0 +1,47 @@
+{
+    "1": {
+        "from": "anhviet",
+        "to": "anhtai",
+        "msg": "hello "
+    },
+    "2": {
+        "from": "anhtai",
+        "to": "anhviet",
+        "msg": "hi"
+    },
+    "3": {
+        "from": "anhviet",
+        "to": "anhtai",
+        "msg": "last from anh viettttttttttttttttttttttttttttttttttttt"
+    },
+    "4": {
+        "from": "anhtai",
+        "to": "abc",
+        "msg": "alo fen"
+    },
+    "5": {
+        "from": "abc",
+        "to": "anhtai",
+        "msg": "chi ? last "
+    },
+    "6": {
+        "from": "mannhi",
+        "to":"anhtai",
+        "msg":"Senior"
+    },
+    "7": {
+        "from": "anhtai",
+        "to": "mannhi",
+        "msg":"hi"
+    },
+    "8":{
+        "from":"abc1",
+        "to":"anhtai",
+        "msg":"xin chao"
+    },
+    "9": {
+        "from":"anhtai",
+        "to":"abc1",
+        "msg":" tets mess"
+    }
+}
