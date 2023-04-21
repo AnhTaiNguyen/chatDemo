@@ -1,6 +1,8 @@
-# login_app
+# Flutter_app
 
-A new Flutter project.
+A new Flutter project. 
+
+I developed a chat application to learn more about FLutter.
 
 ## Getting Started
 
